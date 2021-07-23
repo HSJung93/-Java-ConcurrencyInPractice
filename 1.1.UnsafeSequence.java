@@ -1,4 +1,4 @@
-// @NotThreadSafe 
+@NotThreadSafe 
 public class UnsafeSequence {
     private int value;
 
